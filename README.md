@@ -1,5 +1,3 @@
-- 👋 Hi, I’m @Chuanming-Liu
-
 - 📫 How to reach me chuanming.liu@colorado.edu
 
 <!---
